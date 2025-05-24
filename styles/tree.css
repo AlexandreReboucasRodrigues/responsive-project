@@ -1,0 +1,16 @@
+#tree {
+    border: 1px solid red;
+    width: 100%;
+    height: 50vh;
+    flex-direction: column;
+}
+
+.instagram {
+   display: none;
+}
+
+#tree .buttons .button a {
+    border: 1px solid red;
+    width: 15rem;
+    height: 5rem;
+}
