@@ -5,12 +5,13 @@
     flex-direction: column;
 }
 
-.instagram {
-   display: none;
-}
-
 #tree .buttons .button a {
     border: 1px solid red;
     width: 15rem;
     height: 5rem;
 }
+
+.instagram {
+   display: none;
+}
+
