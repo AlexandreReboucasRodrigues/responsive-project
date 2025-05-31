@@ -1,8 +1,7 @@
-@media (min-widith: 320px) and (orientation: landscape) {
+@media (min-widith: 320px) and (orientation:landscape) {
     body {
         display: flex;
     }
-}
 
 .apresentacao, .arvore {
     width: 50%;
@@ -11,4 +10,6 @@
 
 .apresentacao p {
     font-size: .9rem;
+}
+
 }
